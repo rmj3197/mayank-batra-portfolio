@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 - Prepare Reusable functions, which improve the robustness, reusability, and maintainability of java test scripts
 - Testing UI using JAVA (Selenium) automation with the keyword-driven framework
 - Working with Maven project object model (POM) 
-  """
+  """0
 
 [[experience]]
   title = "Software Development Engineer in Test"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2013-02-01"
-  date_end = "2015-04-3"
+  date_end = "2015-04-30"
   description = """
   - Responsible for configuring and testing Hewitt's proprietary Total Benefits Administration (TBA) System based on analysis documents of client requirements.
   - Configuring involved using graphical user interface tools to customize code to fix a system defect or update the system per change orders.

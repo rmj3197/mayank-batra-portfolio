@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   url = "https://github.com/rmj3197/Detection-of-Fraud-in-Financial-Transactions"
   certificate_url = ""
   date_start = "2020-01-01"
-  date_end = "2020-05030"
+  date_end = "2020-05-30"
   description = """<p style='text-align: justify;'> Developing the Algorithms using the neural networks(Forward Feed, Backward Feed, and Deep Learning) to guide the rover through the maze and find the most optimal path.</p> """
   
 +++
