@@ -32,18 +32,16 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Secretary of Tech Club"
-  company = "Government College of Engineering and Ceramic Technology, India"
+  title = "Software Development Engineer in Test"
+  company = "United Health Group - United States of America"
   company_url = ""
   location = ""
-  date_start = "2017-10-01"
-  date_end = "2018-12-31"
+  date_start = "2015-04-01"
+  date_end = "2016-06-31"
   description = """
-- Actively involved in corporate communications, sponsorship, publicity, alumni
-relations and event management of Technological fest - KarmaTek.
-- Acted as the Single Point of Contact (SPOC) for technical fest -KarmaTek - for over 80 colleges in and
-around Kolkata and increased the participation by 88%.
-- Played a pivotal role in organizing workshops and seminars for technical development of students. 
+- Analyzed business & functional requirements with the Business analysts, to understand the scope of project and to ensure maximum test coverage
+- Reported & closely monitored all defects and ensuring follow-ups with the teams till closure
+- Wrote test cases which maximizes coverage and ensures that all tests are executed efficiently
   """
 [[experience]]
   title = "Member of College Governing Council"
