@@ -1,6 +1,6 @@
 ---
 # Display name
-name:Mayank Batra
+name: Mayank Batra
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Actively looking for Fall 2020 Internship Opportunities
+role: Actively looking for Fall Internship & FTE Dec 2020
 
 # Organizations/Affiliations
 organizations:
