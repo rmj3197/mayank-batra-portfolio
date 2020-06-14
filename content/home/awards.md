@@ -29,24 +29,44 @@ date_format = "2006"
   description = ""
 
 [[item]]
-  organization = "Oracle Certified Associate, Java SE 7 Programmer"
+  organization = "United Health Group"
   organization_url = ""
-  title = "Oracle"
+  title = "Bravo Opal Award"
   url = ""
   certificate_url = ""
-  date_start = "2020-01-01"
-  date_end = "2020-01-01"
+  date_start = "2016-01-01"
+  date_end = ""
   description = ""
 
 [[item]]
   organization = "Oracle MOOC: SQL Fundamentals"
   organization_url = ""
-  title = "Oracle"
+  title = "Bravo Ruby Award"
   url = ""
   certificate_url = ""
-  date_start = "2020-01-01"
-  date_end = "2020-10-01"
+  date_start = "2015-01-01"
+  date_end = ""
   description = ""
 
+[[item]]
+  organization = "AON Hewitt"
+  organization_url = ""
+  title = "Tier 2 Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-01-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "AON Hewitt"
+  organization_url = ""
+  title = "Enthusiastic Client Certificate"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-01"
+  date_end = ""
+  description = "ECC certificate is awarded by AonHewitt on successful delivery of project "Merger of PGN with Duke Energy"."
 
 +++
