@@ -20,63 +20,68 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Government College of Engineering and Ceramic Technology"
+  organization = ""
   organization_url = ""
-  title = "Study of Resource Allocation using Reinforcement Learning based Call Admission Control (CAC) Protocol and Churn Prediction in Telecom Industry"
+  title = "LinkedIn Easy Apply Bot - Eazy Bot"
   url = "https://github.com/rmj3197/Study-of-Resource-Allocation-using-Reinforcement-Learning-Based-CAC-Protocol-and-Churn-Prediction"
   certificate_url = ""
-  date_start = "2018-08-01"
-  date_end = "2019-03-15"
-  description = """<p style='text-align: justify;'> Centralized Resource Allocation where convex maximization formulation for optimal resource allocation in wireless networks is proposed. Also proposed an alternative approach to solve channel assignment problem using Q-Learning. Used predictive analytics to predict customer churn using classification algorithms such as – Logistic Regression – SMOTE, Decision Tree, Light GBM and XGBoost. Logistic Regression – SMOTE has the highest Kappa value of 0.47 and an accuracy of 0.80 </p>"""
+  date_start = "2020-04-01"
+  date_end = "2020-05-30"
+  description = """<p style='text-align: justify;'></p>"""
   
 [[item]]
   organization = "Arizona State University, Tempe"
   organization_url = ""
-  title = "Visualization and Analysis of Twitter Streams"
+  title = "Geotagging Places Mobile Application"
   url = "https://drive.google.com/file/d/1hC7bSMtdve-g8sPK1MxkkO2mfg9MTkWV/view?usp=sharing"
   certificate_url = ""
-  date_start = "2019-09-01"
-  date_end = "2019-11-21"
-  description = "Developed an interactive visual analytical tool using D3js to leverage information gathered from tweets by providing various intuitive and user-friendly interactions."
+  date_start = "2020-01-01"
+  date_end = "2020-05-21"
+  description = """
+  - Developed innovative multiple views android app which accepted persistent data from either Sqlite DB or JsonRPC enabled server and parsed data as a list using recycler view in a list adapter.
+  - Developed a similar iOS app using Swift which accepted persistent data from Core Data DB or JsonRPC enabled server and parsed data as a list using UITableViewController and NavigationController to control navigation bar.
+  - Both these apps calculated the Great Circle distance and Initial Bearing from one place to another
+  """
 
 [[item]]
   organization = "Arizona State University, Tempe"
   organization_url = ""
-  title = "K-Means Clustering using Python"
+  title = "Sparky Programming Language (Compiler/Runtime Envieronment)"
   url = "https://github.com/rmj3197/K-Means-Clustering"
   certificate_url = ""
-  date_start = "2019-10-01"
-  date_end = ""
-  description = """<p style='text-align: justify;'> Implemented K-Means clustering from scratch using two strategies: First strategy - Initial centroids are chosen randomly Second Strategy - The first centroid is chosen randomly, for the i-th centroid - a data sample is chosen among all possible data samples such that the mean distance of this chosen sample to all previous (i-1) centres is maximum </p>"""
+  date_start = "2020-02-01"
+  date_end = "2020-05-30"
+  description = """
+- SPARKY is an imperative programming language taking inspiration from JAVA.
+- Implemented a custom compiler and runtime environment for SPARKY language.
+- Salient features of the language include conditionals, loops, expressions, blocks, etc.
+- Created the programming language based on the imperative paradigm and provided dynamic data binding for the variables of type Integer and Boolean.
+- Capable of handling exceptions for various errors and exceptions.
+- Tools used:Eclipse, Antlr, Git, ANT
+  """
 
 [[item]]
   organization = "Arizona State University, Tempe"
   organization_url = ""
-  title = "Classification using Neural Network"
+  title = "Hawks and Dove's Simulation using Unity 3D"
   url = "https://github.com/rmj3197/Classification-using-Neural-Network"
   certificate_url = ""
-  date_start = "2019-11-01"
-  date_end = ""
-  description = """<p style='text-align: justify;'> Classification task on MNIST dataset using Convolution Neural Network. Classification Accuracy achieved by the NN was – 97.81% </p>"""
+  date_start = "2020-01-01"
+  date_end = "2020-05-30"
+  description = """
+- Developed a simulation for the classic problem of hawks and doves to find out who would survive after the fights and food eaten over a period of time.
+- Generated graphs on the lives of hawks and doves and the food remaining after each simulation
+- Implemented the simulation using Unity 3D
+  """
 
 [[item]]
-  organization = "Globsyn Finishing School"
+  organization = "Arizona State University, Tempe"
   organization_url = ""
-  title = "Detection of Fraudulent Financial Transactions"
+  title = "Automated Rover (Maze Search and Exploration) SImulation"
   url = "https://github.com/rmj3197/Detection-of-Fraud-in-Financial-Transactions"
   certificate_url = ""
-  date_start = "2018-07-01"
-  date_end = ""
-  description = """<p style='text-align: justify;'> Applied different classification algorithms such as Logistic Regression, Decision Tree, Naive Bayes, Random Forest, KNN, XGBoost over an imbalanced synthetic financial dataset developed by Paysim having over 6.5 million financial transactions. Logistic Regression was the best-suited classifier with a recall value of 0.72 and AU-ROC value of 0.95 </p> """
-
-[[item]]
-  organization = "Indian Cyber Security Solutions"
-  organization_url = ""
-  title = "Exploiting Vulnerabilities in Remote System"
-  url = "https://github.com/rmj3197/Remote-PC-Exploitation-"
-  certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = ""
-  description = """<p style='text-align: justify;'> The project focused on exploiting the Microsoft Windows SMBV1 (Critical Bulletin – MS17-010) (Eternal Blue) (WannaCry ransomware exploited this service), Server Service (Critical Bulletin - MS08-067), PowerShell Alphanumeric Shellcode Injection and VNC Injection in remote PCs. </p> """
+  date_start = "2020-01-01"
+  date_end = "2020-05030"
+  description = """<p style='text-align: justify;'> Developing the Algorithms using the neural networks(Forward Feed, Backward Feed, and Deep Learning) to guide the rover through the maze and find the most optimal path.</p> """
   
 +++
