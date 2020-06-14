@@ -23,7 +23,7 @@ bio:
 interests:
 - Android & Java Development
 - Software Quality Assurance
-- Project Management
+- Project Management/SCRUM
 
 education:
   courses:
