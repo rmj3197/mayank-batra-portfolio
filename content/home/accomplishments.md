@@ -23,11 +23,11 @@ date_format = "Jan 2006"
   organization = ""
   organization_url = ""
   title = "LinkedIn Easy Apply Bot - Eazy Bot"
-  url = "https://github.com/rmj3197/Study-of-Resource-Allocation-using-Reinforcement-Learning-Based-CAC-Protocol-and-Churn-Prediction"
+  url = ""
   certificate_url = ""
   date_start = "2020-04-01"
   date_end = "2020-05-30"
-  description = """<p style='text-align: justify;'></p>"""
+  description = ""
   
 [[item]]
   organization = "Arizona State University, Tempe"
