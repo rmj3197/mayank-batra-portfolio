@@ -14,7 +14,7 @@ role: Actively looking for Fall 2020 Internship Opportunities
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Mayank Batra
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
