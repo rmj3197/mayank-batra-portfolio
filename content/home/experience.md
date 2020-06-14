@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 - Prepare Reusable functions, which improve the robustness, reusability, and maintainability of java test scripts
 - Testing UI using JAVA (Selenium) automation with the keyword-driven framework
 - Working with Maven project object model (POM) 
-  """0
+  """
 
 [[experience]]
   title = "Software Development Engineer in Test"
