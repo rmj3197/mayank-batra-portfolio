@@ -39,7 +39,7 @@ date_format = "2006"
   description = ""
 
 [[item]]
-  organization = "Oracle MOOC: SQL Fundamentals"
+  organization = "United Health Group"
   organization_url = ""
   title = "Bravo Ruby Award"
   url = ""
