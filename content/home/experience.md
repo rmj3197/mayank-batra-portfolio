@@ -24,11 +24,11 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2016-08-01"
   date_end = "2018-08-31"
-  description = "<p style='text-align: justify;'>
+  description = """
 - Prepare Reusable functions, which improve the robustness, reusability, and maintainability of java test scripts
 - Testing UI using JAVA (Selenium) automation with the keyword-driven framework
 - Working with Maven project object model (POM) 
-  </p>"
+  """
 
 
 [[experience]]
