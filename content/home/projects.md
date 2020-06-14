@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   organization = "Arizona State University, Tempe"
   organization_url = ""
   title = "Geotagging Places Mobile Application"
-  url = "https://drive.google.com/file/d/1hC7bSMtdve-g8sPK1MxkkO2mfg9MTkWV/view?usp=sharing"
+  url = ""
   certificate_url = ""
   date_start = "2020-01-01"
   date_end = "2020-05-21"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   organization = "Arizona State University, Tempe"
   organization_url = ""
   title = "Sparky Programming Language (Compiler/Runtime Environment)"
-  url = "https://github.com/rmj3197/K-Means-Clustering"
+  url = ""
   certificate_url = ""
   date_start = "2020-02-01"
   date_end = "2020-05-30"
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   organization = "Arizona State University, Tempe"
   organization_url = ""
   title = "Hawks and Dove's Simulation using Unity 3D"
-  url = "https://github.com/rmj3197/Classification-using-Neural-Network"
+  url = ""
   certificate_url = ""
   date_start = "2020-01-01"
   date_end = "2020-05-30"
@@ -77,11 +77,48 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Arizona State University, Tempe"
   organization_url = ""
-  title = "Automated Rover (Maze Search and Exploration) SImulation"
-  url = "https://github.com/rmj3197/Detection-of-Fraud-in-Financial-Transactions"
+  title = "Visual Learning Portal"
+  url = ""
   certificate_url = ""
-  date_start = "2020-01-01"
-  date_end = "2020-05-30"
-  description = """<p style='text-align: justify;'> Developing the Algorithms using the neural networks(Forward Feed, Backward Feed, and Deep Learning) to guide the rover through the maze and find the most optimal path.</p> """
-  
+  date_start = "2019-08-01"
+  date_end = "2019-12-30"
+  description = """
+- Working in a team in developing an online Visual Learning Portal, using the Agile method with Scrum.
+- Designed & Developed the application in RESTful architecture using Facade, Factory, Delegation & Iterator Design Patterns.
+- Developed the Backend using Python with Flask and Database using Flask-SQLAlchemy.
+  """
+
+[[item]]
+  organization = "Arizona State University, Tempe"
+  organization_url = ""
+  title = "Project Management using Agile | Quiz Management System"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-02-01"
+  date_end = "2019-02-27"
+  description = """
+To develop a Web-Based application for Quiz Management System and enforce industry standards and implement the AGILE methodology.
+Learning Outcome:
+-Able to enforce the AGILE methodology.
+-Team Management Skills
+-Project Mangement
+-Process Management
+-Clean Coding Standards
+-Daily Standups and huddles
+-Sprint Review and Retrospectives
+-Reporting to Leadership ( Product Owner)
+-Tracking Daily Activity
+-Requirement understanding and User Story creation
+-Estimating User Stories
+
+Sprint Size: 2 Week
+Total Sprints: 2
+Role: Scrum Master
+Team Size: 5
+Design Architecture: MVC
+Version Control System: GIT
+Technology Stack :
+JSP,JAVA, MySql, CSS
+  """
+
 +++
