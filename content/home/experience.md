@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2015-04-01"
-  date_end = "2016-06-31"
+  date_end = "2016-06-30"
   description = """
 - Analyzed business & functional requirements with the Business analysts, to understand the scope of project and to ensure maximum test coverage
 - Reported & closely monitored all defects and ensuring follow-ups with the teams till closure
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2013-02-01"
-  date_end = "2015-04-31"
+  date_end = "2015-04-30"
   description = """
   - Responsible for configuring and testing Hewitt's proprietary Total Benefits Administration (TBA) System based on analysis documents of client requirements.
   - Configuring involved using graphical user interface tools to customize code to fix a system defect or update the system per change orders.
