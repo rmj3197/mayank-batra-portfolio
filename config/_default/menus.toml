@@ -10,7 +10,7 @@
 
 [[main]]
     name = "Certificates"
-    url = "#courses"
+    url = "#certificates"
     weight = 20
 
 [[main]]

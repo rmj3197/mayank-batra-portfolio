@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Certificates"
@@ -19,13 +19,34 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Deeplearning.ai"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = "https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome"
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/SA66MTRE8VDR?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=custom"
-  date_start = "2020-01-05"
+  organization = "ISTQB - International Software Testing Qualifications Board"
+  organization_url = ""
+  title = "ISTQB CTFL (Certified Tester Foundation Level)"
+  url = ""
+  certificate_url = ""
+  date_start = ""
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Oracle Certified Associate, Java SE 7 Programmer"
+  organization_url = ""
+  title = "Oracle"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Oracle MOOC: SQL Fundamentals"
+  organization_url = ""
+  title = "Oracle"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = ""
+
 
 +++
