@@ -67,6 +67,6 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2013-01-01"
   date_end = ""
-  description = "ECC certificate is awarded by AonHewitt on successful delivery of project "Merger of PGN with Duke Energy"."
+  description = "ECC certificate is awarded by AonHewitt on successful delivery of project - Merger of PGN with Duke Energy."
 
 +++
