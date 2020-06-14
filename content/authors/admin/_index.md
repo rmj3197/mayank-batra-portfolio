@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Mayank Batra
+name: "Mayank Batra"
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Actively looking for Fall 2020 Internship Opportunities
 
 # Organizations/Affiliations
 organizations:
-- name: Mayank Batra
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
