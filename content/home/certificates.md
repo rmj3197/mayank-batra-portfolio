@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "ISTQB CTFL (Certified Tester Foundation Level)"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2020-01-01"
+  date_end = "2020-01-01"
   description = ""
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Oracle"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2020-01-01"
+  date_end = "2020-01-01"
   description = ""
 
 [[item]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "Oracle"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2020-01-01"
+  date_end = "2020-10-01"
   description = ""
 
 
