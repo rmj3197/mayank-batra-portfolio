@@ -61,9 +61,11 @@ date_format = "Jan 2006"
   company = "Ministry of Communications and Information Technology, Govt. of india"
   company_url = ""
   location = ""
-  date_start = "2017-07-01"
-  date_end = "2019-05-23"
-  description = "Developed the assigned project "Address Manager" with C++ and achieved a grade of A+"
+  date_start = "2011-06-01"
+  date_end = "2011-07-23"
+  description = """
+  - Developed the assigned project "Address Manager" with C++ and achieved a grade of A+
+  """
 
 
 +++
