@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Arizona State University, Tempe"
   organization_url = ""
-  title = "Sparky Programming Language (Compiler/Runtime Envieronment)"
+  title = "Sparky Programming Language (Compiler/Runtime Environment)"
   url = "https://github.com/rmj3197/K-Means-Clustering"
   certificate_url = ""
   date_start = "2020-02-01"
