@@ -18,13 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Volunteer"
-  company = "National Service Scheme (NSS) India"
+  title = "Software Quality Assurance Engineer"
+  company = "Markit"
   company_url = ""
   location = ""
-  date_start = "2016-05-01"
-  date_end = "2019-02-23"
-  description = "<p style='text-align: justify;'>Represented Government College of Engineering and Ceramic Technology at Regional Interaction Program with Rajyavardhan Singh Rathore, Hon'ble Minister of Sports and Youth Affairs, India </p>"
+  date_start = "2016-08-01"
+  date_end = "2018-08-31"
+  description = "<p style='text-align: justify;'>
+  - Prepare Reusable functions, which improve the robustness, reusability, and maintainability of java test scripts
+  - Testing UI using JAVA (Selenium) automation with the keyword-driven framework
+  - Working with Maven project object model (POM) 
+  </p>"
 
 
 [[experience]]
