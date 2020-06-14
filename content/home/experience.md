@@ -44,22 +44,26 @@ date_format = "Jan 2006"
 - Wrote test cases which maximizes coverage and ensures that all tests are executed efficiently
   """
 [[experience]]
-  title = "Member of College Governing Council"
+  title = "Setup Configuration Specialist"
   company = "Government College of Engineering and Ceramic Technology, India"
   company_url = ""
   location = ""
-  date_start = "2017-11-01"
-  date_end = "2019-01-01"
-  description = ""
+  date_start = "2013-02-01"
+  date_end = "2015-04-31"
+  description = """
+  - Responsible for configuring and testing Hewitt's proprietary Total Benefits Administration (TBA) System based on analysis documents of client requirements.
+  - Configuring involved using graphical user interface tools to customize code to fix a system defect or update the system per change orders.
+  - Responsible for testing the code and debugging issues/defects prior to the code being moved to production.
+  """
 
 [[experience]]
-  title = "Representative of Dept. of Computer Science and Engineering in Career and Skill Development Committee"
-  company = "Government College of Engineering and Ceramic Technology"
+  title = "Internship Trainee"
+  company = "Ministry of Communications and Information Technology, Govt. of india"
   company_url = ""
   location = ""
   date_start = "2017-07-01"
   date_end = "2019-05-23"
-  description = ""
+  description = "Developed the assigned project "Address Manager" with C++ and achieved a grade of A+"
 
 
 +++
