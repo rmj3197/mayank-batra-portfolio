@@ -32,9 +32,9 @@ education:
   - course: Master of Science in Computer Software Engineering
     institution: Ira A. Fulton Schools of Engineering, Arizona State University, Tempe, Arizona, USA
     year: Jan 2019 - Present
-  - course: Bachelor of Technology in Computer Science and Engineering
-    institution: Maharshi Dayanand University,Rohtak, India
-    year: Aug 2009 - May 2013
+  - course: Bachelor of Technology in Information Technology
+    institution: Maharshi Dayanand University, Rohtak, India
+    year: May 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
