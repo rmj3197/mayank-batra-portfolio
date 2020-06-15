@@ -1,4 +1,4 @@
-s---
+
 # Display name
 name: Mayank Batra
 
