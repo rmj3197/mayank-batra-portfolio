@@ -56,7 +56,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Oracle Certified Associate, Java SE 7 Programmer"
   organization_url = ""
-  title = "racle Certified Associate, Java SE 7 Programmer"
+  title = "Oracle Certified Associate, Java SE 7 Programmer"
   url = ""
   certificate_url = ""
   date_start = "2020-01-01"
