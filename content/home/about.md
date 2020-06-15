@@ -21,7 +21,7 @@ title = "Mayank Batra"
   #gradient_end = "ForestGreen"
   
   # Background image.
-   image = "background-2.jpg"  # Name of image in `static/img/`.
+   image = "background-1.jpg"  # Name of image in `static/img/`.
    image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -34,6 +34,8 @@ title = "Mayank Batra"
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+
 author = "admin"
+
 +++
 
