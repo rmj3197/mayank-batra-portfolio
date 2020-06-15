@@ -13,14 +13,6 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-[background]
-# Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-
-  # Text color (true=light or false=dark).
-  text_color_light = true
-
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
