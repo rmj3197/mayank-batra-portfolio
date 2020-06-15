@@ -5,6 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
+
+title = "Publications"
+subtitle = ""
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -27,10 +31,6 @@ weight = 30  # Order that this section will appear.
   
   # Text color (true=light or false=dark).
   text_color_light = true
-
-
-title = "Publications"
-subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
