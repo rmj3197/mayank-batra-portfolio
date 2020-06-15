@@ -4,7 +4,7 @@ name: Mayank Batra
 
 # Username (this should match the folder name)
 authors: 
-- mayank batra
+- admin
 
 # Is this the primary user of the site?
 superuser: true
